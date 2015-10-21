@@ -1,0 +1,297 @@
+{
+  "families": [
+    {
+      "name": "Canidae",
+      "abilities": [
+        {
+          "name": "Opportunistic",
+          "description": ""
+        },
+        {
+          "name": "High-strung",
+          "description": ""
+        }
+      ],
+      "modifiers": [
+        "+1 to body:strength",
+        "Canide Characters always recieve +1 dice when testing against exhaustion or fatigue."
+      ],
+      "species": [
+        {
+          "name": "Dog",
+          "proficiency": "Express"
+        },
+        {
+          "name": "Fox",
+          "proficiency": "Deception"
+        },
+        {
+          "name": "Wolf",
+          "proficiency": "Scent"
+        },
+        {
+          "name": "Coyote",
+          "proficiency": "Survival"
+        },
+        {
+          "name": "Jackal",
+          "proficiency": "Coersion"
+        }
+      ],
+      "description": "",
+      "appearance": ""
+    },
+    {
+      "name": "Felidae",
+      "abilities": [
+        {
+          "name": "Claustrophobic",
+          "description": ""
+        },
+        {
+          "name": "Excessive",
+          "description": ""
+        }
+      ],
+      "modifiers": [
+        "+1 to Body:Dexterity",
+        "Felidae Characters always receive +1 die when performing tasks of manual dexterity or balance outside of combat mechanics."
+      ],
+      "species": [
+        {
+          "name": "Cat",
+          "proficiency": "Sneak"
+        },
+        {
+          "name": "Cheetah",
+          "proficiency": "Athletics"
+        },
+        {
+          "name": "Cougar",
+          "proficiency": "Intimidate"
+        },
+        {
+          "name": "Lion",
+          "proficiency": "Command"
+        },
+        {
+          "name": "Tiger",
+          "proficiency": "Inspire"
+        }
+      ],
+      "description": "",
+      "appearance": ""
+    },
+    {
+      "name": "Avialae",
+      "abilities": [
+        {
+          "name": "Claustrophobic",
+          "description": ""
+        },
+        {
+          "name": "Excessive",
+          "description": ""
+        }
+      ],
+      "modifiers": [
+        "+1 to Body:Acuity",
+        "Avialae Characters can Fly\nnaturally (though they must put points\ninto the Proficiency to use it)."
+      ],
+      "species": [
+        {
+          "name": "Bird",
+          "proficiency": "Express"
+        },
+        {
+          "name": "Eagle",
+          "proficiency": "Intimidate"
+        },
+        {
+          "name": "Hawk",
+          "proficiency": "Spot"
+        },
+        {
+          "name": "Crow",
+          "proficiency": "Investigation"
+        }
+      ],
+      "description": "",
+      "appearance": ""
+    },
+    {
+      "name": "Reptilia",
+      "abilities": [
+        {
+          "name": "Habitual",
+          "description": ""
+        },
+        {
+          "name": "Precise",
+          "description": ""
+        }
+      ],
+      "modifiers": [
+        "+1 to Body:Resilience",
+        "Reptilia characters possess a natural\nresistance to toxins and poison, equating\nto +2 on their Body Resistance score\nagainst such threats."
+      ],
+      "species": [
+        {
+          "name": "Lizard",
+          "proficiency": "Survival"
+        },
+        {
+          "name": "Snake",
+          "proficiency": "Sneak"
+        },
+        {
+          "name": "Alligator",
+          "proficiency": "Intimidate"
+        },
+        {
+          "name": "Gecko",
+          "proficiency": "Medicine"
+        },
+        {
+          "name": "Iguana",
+          "proficiency": "Coersion"
+        }
+      ],
+      "description": "",
+      "appearance": ""
+    },
+    {
+      "name": "Mustelidae",
+      "abilities": [
+        {
+          "name": "Impulsive",
+          "description": ""
+        },
+        {
+          "name": "Stubborn",
+          "description": ""
+        }
+      ],
+      "modifiers": [
+        "+1 to Body:Presence",
+        "Mustelidae characters roll two dice for Readiness and take the highest."
+      ],
+      "species": [
+        {
+          "name": "Weasel",
+          "proficiency": "Operate"
+        },
+        {
+          "name": "Otter",
+          "proficiency": "Swim"
+        },
+        {
+          "name": "Skunk",
+          "proficiency": "Otter"
+        },
+        {
+          "name": "Badger",
+          "proficiency": "Intimidate"
+        },
+        {
+          "name": "Wolverine",
+          "proficiency": "Survival"
+        }
+      ],
+      "description": "",
+      "appearance": ""
+    }
+  ],
+  "morphisms": [
+    {
+      "name": "Plantigrade",
+      "perks": "Your physically unobtrusive state has simply opened up more opportunities to you than are otherwise available to those with more limiting morphisms. You receive 1 extra Proficiency point.",
+      "drawbacks": "",
+      "momentum-trigger": "",
+      "momentum-effect": "",
+      "momentum-break": "",
+      "reaction": ""
+    },
+    {
+      "name": "Digitigrade",
+      "perks": "Your physically unobtrusive state has simply opened up more opportunities to you than are otherwise available to those with more limiting morphisms. You receive 1 extra Proficiency point.",
+      "drawbacks": "",
+      "momentum-trigger": "",
+      "momentum-effect": "",
+      "momentum-break": "",
+      "reaction": ""
+    },
+    {
+      "name": "",
+      "perks": "",
+      "drawbacks": "",
+      "momentum-trigger": "",
+      "momentum-effect": "",
+      "momentum-break": "",
+      "reaction": ""
+    },
+    {
+      "name": "",
+      "perks": "",
+      "drawbacks": "",
+      "momentum-trigger": "",
+      "momentum-effect": "",
+      "momentum-break": "",
+      "reaction": ""
+    },
+    {
+      "name": "",
+      "perks": "",
+      "drawbacks": "",
+      "momentum-trigger": "",
+      "momentum-effect": "",
+      "momentum-break": "",
+      "reaction": ""
+    },
+    {
+      "name": "",
+      "perks": "",
+      "drawbacks": "",
+      "momentum-trigger": "",
+      "momentum-effect": "",
+      "momentum-break": "",
+      "reaction": ""
+    },
+    {
+      "name": "",
+      "perks": "",
+      "drawbacks": "",
+      "momentum-trigger": "",
+      "momentum-effect": "",
+      "momentum-break": "",
+      "reaction": ""
+    },
+    {
+      "name": "",
+      "perks": "",
+      "drawbacks": "",
+      "momentum-trigger": "",
+      "momentum-effect": "",
+      "momentum-break": "",
+      "reaction": ""
+    },
+    {
+      "name": "",
+      "perks": "",
+      "drawbacks": "",
+      "momentum-trigger": "",
+      "momentum-effect": "",
+      "momentum-break": "",
+      "reaction": ""
+    }
+  ],
+  "macros": {
+    "status": {
+      "hp": "(body:strength + body:resilience) * 10",
+      "readiness": "body:acuity + mind:dexterity",
+      "movement": "body:resilience + body:dexterity",
+      "nerve": "(mind:resilience + mind:presence) * 5",
+      "range": "(body:dexterity + mind:acuity) * 2"
+    }
+  }
+}

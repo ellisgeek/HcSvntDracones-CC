@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "player": "",
+    "name": "",
+    "age": "",
+    "gender": "",
+    "height": "",
+    "eyes": "",
+    "family": "",
+    "species": "",
+    "morphism": "",
+    "family-perk": "",
+    "motivation": ""
+  },
+  "stats": {
+    "mind": {
+      "dice": "",
+      "dexterity": "1",
+      "resilience": "1",
+      "acuity": "1",
+      "strength": "1",
+      "presence": "1"
+    },
+    "body": {
+      "dice": "",
+      "dexterity": "1",
+      "resilience": "1",
+      "acuity": "1",
+      "strength": "1",
+      "presence": "1"
+    },
+    "community": {
+      "dice": "",
+      "dexterity": "1",
+      "resilience": "1",
+      "acuity": "1",
+      "strength": "1",
+      "presence": "1"
+    },
+    "economy": {
+      "dice": "",
+      "dexterity": "1",
+      "resilience": "1",
+      "acuity": "1",
+      "strength": "1",
+      "presence": "1"
+    }
+  },
+  "status": {
+    "hp": "",
+    "readiness": "",
+    "movement": "",
+    "nerve": "",
+    "range": ""
+  }
+  "temp-status": {
+    "hp": "",
+    "armor": "",
+    "shield": ""
+  }
+}
